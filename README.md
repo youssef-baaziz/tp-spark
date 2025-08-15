@@ -28,7 +28,7 @@ L’application Spark lit le fichier `sales.txt` et calcule le total des ventes 
 
 📸 **Exécution** :
 
-![screenshot1](screenshots/appE1.png)
+![screenshot1](screenshots/1.png)
 
 ---
 
@@ -44,6 +44,6 @@ Cette deuxième application Spark lit le fichier `sales.txt` et calcule le **pri
 
 📸 **Exécution** :
 
-![screenshot2](screenshots/appE2.png)
+![screenshot2](screenshots/2.png)
 
 ---
